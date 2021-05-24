@@ -1,7 +1,9 @@
-# tracker
-Tracker for bugs and suggestions for Narrator Bot
+# Tracker
 
-## Departments
+This is the tracking repo for Wolvesville Simulation.
+Here, you can find the issues for bugs, suggestions, and server updates!
+
+## Sections
 We have boards for activity at simulation:
 - Bugs: To track bugs
 - Suggestions: To track suggestions

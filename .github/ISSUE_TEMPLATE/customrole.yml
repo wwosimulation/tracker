@@ -13,3 +13,5 @@ body:
     id: roleinfo
     attributes:
       label: Role Info
+    validations:
+      required: true

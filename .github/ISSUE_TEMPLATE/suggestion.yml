@@ -6,9 +6,8 @@ body:
     id: suggestion
     attributes:
       label: What is your suggestion?
-      description: Include all the details you have
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      description: Include all the details you have.
+      value: "Things should happen!
     validations:
       required: true
   - type: dropdown

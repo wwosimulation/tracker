@@ -1,0 +1,15 @@
+name: Custom Role
+description: Add a Custom Role to the tracker
+labels: ["Custom Role"]
+body:
+  - type: textarea
+    id: rolename
+    attributes:
+      label: Role Name
+      placeholder: Villager
+    validations:
+      required: true
+  - type: textarea
+    id: roleinfo
+    attributes:
+      label: Role Info

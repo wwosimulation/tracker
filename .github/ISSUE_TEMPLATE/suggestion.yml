@@ -13,7 +13,8 @@ body:
       required: true
   - type: dropdown
     id: fromwhere
-    required: true
+    validations:
+      required: true
     attributes:
       label: Where is this suggestion from?
       options:

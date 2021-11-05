@@ -7,7 +7,7 @@ body:
     attributes:
       label: What is your suggestion?
       description: Include all the details you have.
-      value: "Things should happen!
+      value: "Things should happen!"
     validations:
       required: true
   - type: dropdown

@@ -1,0 +1,23 @@
+name: Suggestion
+description: Add a suggestion
+labels: ["Suggestion"]
+body:
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What is your suggestion?
+      description: Include all the details you have
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: fromwhere
+    required: true
+    attributes:
+      label: Where is this suggestion from?
+      options:
+        - Staff Vote
+        - Community Vote
+        - Dev Assistant
+        - Other

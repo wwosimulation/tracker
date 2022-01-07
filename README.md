@@ -8,7 +8,7 @@ Here, you can find the issues for bugs, suggestions, and server updates!
 ## Developer Process
 
 On the [project board](https://github.com/orgs/wwosimulation/projects/2) for Narrator Bot, there are different columns:
-- To Do: Shadow
+- To Do: Hackante
 - To Do: Assistants
 - In Progress
 - Not Assigned
